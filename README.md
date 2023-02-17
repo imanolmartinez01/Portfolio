@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-This portfolio was made in NextJS using Styled components deployed in Firebase hosting.
+This portfolio was made in NextJS using Styled components using Firestore database and deployed in Firebase hosting.
 
 LIVE SITE: https://www.imanol.live/
 
