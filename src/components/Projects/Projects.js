@@ -55,8 +55,8 @@ export default function Projects () {
             </TagList>
           </div>
           <UtilityList>
-              {visit !== '' ? <ExternalLinks href={visit}>Code</ExternalLinks> :  null}
-              {source !== '' ? <ExternalLinks href={source}>Source</ExternalLinks> :  null}
+              {visit !== '' ? <ExternalLinks href={visit}>Visit</ExternalLinks> :  null}
+              {source !== '' ? <ExternalLinks href={source}>Code</ExternalLinks> :  null}
           </UtilityList>
         </BlogCard>
       ))}

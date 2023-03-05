@@ -15,7 +15,7 @@ const Experiences = () =>  (
         <ListContainer>
           <ListTitle>Full Stack Developer - Client Flows</ListTitle>
           <ListParagraph>
-          &#9830; Developed and maintained a React-based front-end interface.
+          &#9830; Developed and maintained a React front-end interface with Typescript and Tailwind.
           </ListParagraph>
           <ListParagraph>
           &#9830; Crafted Firebase backend architecture for secure data storage and integration.

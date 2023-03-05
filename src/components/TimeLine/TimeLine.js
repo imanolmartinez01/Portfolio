@@ -47,8 +47,8 @@ const Timeline = () => {
       <SectionDivider />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Self-taught, curious and kind person. I'm happy when I grow. I like to be part of a team. 
-I am an entrepreneur in any field. I like to create and be creative. I manage an artist collective called KeepSilent. Also I produce music with machines as the name of IMANOL. At this moment I work as a Professional Rugby Player that why I like to be part of a team but finishing this stage to continue working as developer.</SectionText>
+      If you invite me for a beer to just talk, probably I wouldn't present myself. I have fun when I do things, when I create, could be software, music, sports, cook among others. When I do things I like to do it right even if I have to stay after hours, this will save me time in the future. I know also my performance is so much better when I do exercise, so I always try to be in a healthy state to do my things better and have the energy to do it. I think in the future I could be a good leader because from young age I belong in a few rugby teams. Last year we won the national Spain league with Santboi Team. I'm a Self-taught, curious and kind person that means I don't need any kind of supervision to go forward.
+      </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
         {TimeLineData.map((item , index) => (

@@ -39,6 +39,16 @@ export const projects = [
     visit: null,
     id: 3,
   },
+  {
+    title: 'This Portfolio',
+    description: "Web application to manage arrived/leaving trucks to a station and check the weight of them to have a control.",
+    accomplishments: ["• Create tables in SQL and import to .NetCore 5 throught Entity Framework.", "• Develop profile user page and communicating with API services.", "• Features to add truck to database when arrived to station."],
+    image: '/images/thisportfolio.png',
+    tags: ['.NetCore 5', 'SQL Server', 'Entity Framework'],
+    source: null,
+    visit: null,
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
