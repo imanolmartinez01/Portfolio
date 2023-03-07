@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionDivider />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      If you invite me for a beer to just talk, probably I wouldn't present myself. I have fun when I do things, when I create, could be software, music, sports, cook among others. When I do things I like to do it right even if I have to stay after hours, this will save me time in the future. I know also my performance is so much better when I do exercise, so I always try to be in a healthy state to do my things better and have the energy to do it. I think in the future I could be a good leader because from young age I belong in a few rugby teams. Last year we won the national Spain league with Santboi Team. I'm a Self-taught, curious and kind person that means I don't need any kind of supervision to go forward.
+      If you give me an assignment and I don't know how to do it, I will learn how to, complete it, and turn it in. I have fun when I learn, when I do things, when I create, could be software, music, sports, cook among others. When I do things I like to do it right even if I have to stay after hours, this will save me time in the future. I know also my performance is so much better when I do exercise, so I always try to be in a healthy state to do my things better and have the energy to do it. I think in the future I could be a good leader because from young age I belong in a few rugby teams. Last year we won the national Spain league with Santboi Team. I'm a Self-taught, curious and kind person that means I don't need any kind of supervision to go forward.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -22,7 +22,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Flutter, React.js (Typescript), Next.js and .Net Core
+            Flutter, React.js (Typescript) and Next.js.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            MongoDB, .Net C#, SQL and Firebase
+            MongoDB, Node.js, .Net C#, SQL and Firebase
           </ListParagraph>
         </ListContainer>
       </ListItem>

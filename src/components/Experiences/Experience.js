@@ -35,7 +35,7 @@ const Experiences = () =>  (
         <ListContainer>
           <ListTitle>Full-Stack Developer - Gemini Expert S.L.</ListTitle>
           <ListParagraph>
-          &#9830; Developed and maintained three Flutter applications.
+          &#9830; Developed and maintained Flutter and React applications.
           </ListParagraph>
           <ListParagraph>
           &#9830; Crafted SQL Server schema for data storage and retrieval.
